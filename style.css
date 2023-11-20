@@ -1,0 +1,99 @@
+body {
+    background-image: url(/img/background.jpg);
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#structure {
+    width: 70%;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.450);
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    width: 140px;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #00dd00;
+    margin-top: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    height: 20px;
+}
+
+nav {
+    width: 80%;
+    height: 28px;
+    margin: auto;
+    background-color: #00dd00;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btncontainer {
+    margin-top: 4px;
+}
+
+button {
+    font-size: 10px;
+}
+
+section {
+    width: 80%;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: white;
+
+}
+
+.user {
+    font-size: 20px;
+
+
+}
+
+.scooter-address,
+.info-scooter {
+    font-size: 10px;
+}
+
+.user-1,
+.user-2,
+.user-3 {
+    margin-top: 5px;
+}
+
+.charge-1 {
+    width: 30%;
+    height: 15px;
+    background-color: #f3b35c;
+    border-radius: 3px;
+}
+
+.charge-2 {
+    width: 53%;
+    height: 15px;
+    border-radius: 3px;
+    background-color: #2cc12e;
+}
+
+.charge-3 {
+    width: 10%;
+    height: 15px;
+    border-radius: 3px;
+    background-color: #bc4244;
+}
+
+footer {
+    height: 50px;
+}
